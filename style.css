@@ -16,7 +16,7 @@ a{
     padding: 180px 0 100px 0;
     background-image: url(23362857_m.jpg);
     background-size: cover;
-    color: red;
+    color: royalblue;
     text-align: center;
 }
 
@@ -32,7 +32,7 @@ a{
 
 .main{
     padding: 8px 24px;
-    color: red;
+    color: white;
     display: inline-block;
     opacity: 0.8;
     border-radius: 4px;
