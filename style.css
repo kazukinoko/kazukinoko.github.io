@@ -42,3 +42,21 @@ a{
 opacity: 1;
 }
 
+.ALL{
+    background-color: rgb(95, 128, 236);
+}
+
+.message1{
+    padding: 0 10px 0 10px;
+    
+}
+
+.message2{
+    padding: 0 10px 0 10px;
+}
+.topics h1{
+    padding: 0 0 0 10px;
+}
+.topics li{
+    padding-bottom: 3px;
+}
